@@ -1,5 +1,5 @@
 <h1 align="center">Arthur Silva</h1>
-<p align="center">Estudante Concluinte do Ensino Médio Integrado na Escola Técnica Estadual Ariano Vilar Suassuna/p>
+<p align="center">Estudante Concluinte do Ensino Médio Integrado na Escola Técnica Estadual Ariano Vilar Suassuna</p>
 
 - 👨‍💻 Estou finalizando um projeto de iniciação cientíca na UFAPE
 - 📧 Entre em contato comigo em *arthursilvajsjskd@gmail.com*.
@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">Tecnologias em Estudo no Momento</h3>
-<!--
+
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="php" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="40"/>
@@ -19,4 +19,4 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
--->
+
