@@ -2,7 +2,11 @@
 <p align="center">Estudante Concluinte do Ensino Médio Integrado na Escola Técnica Estadual Ariano Vilar Suassuna</p>
 
 - 👨‍💻 Estou finalizando um projeto de iniciação cientíca na UFAPE
-- 📧 Entre em contato comigo em *arthursilvajsjskd@gmail.com*.
+- Técnico em Desenvolvimento de Sistemas
+- Conclui Programa de Iniciação CIentífica na UFAPE em 2021
+- Participei do Programa de Extensão Técnologica Pela FACEPE em 2021
+- Tenho participação em alguns projetos em minha cidade natal!
+- 📧 Entre em contato comigo em *arthursilvz@outlook.com*.
 
 <h3 align="center">Status GitHub</h3>
 <p align="center">
