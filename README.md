@@ -1,8 +1,7 @@
 <h1 align="center">Arthur Silva</h1>
-<p align="center">Estudante Concluinte do Ensino Médio Integrado na Escola Técnica Estadual Ariano Vilar Suassuna</p>
+<p align="center">Técnico em Desenvolvimento de Sistemas pelo Ensino Médio Integrado da Escola Técnica Estadual Ariano Vilar Suassuna</p>
 
 - 👨‍💻 Estou finalizando um projeto de iniciação cientíca na UFAPE
-- Técnico em Desenvolvimento de Sistemas
 - Conclui Programa de Iniciação CIentífica na UFAPE em 2021
 - Participei do Programa de Extensão Técnologica Pela FACEPE em 2021
 - Tenho participação em alguns projetos em minha cidade natal!
